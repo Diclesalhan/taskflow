@@ -11,7 +11,7 @@ Node.js ve Express.js ile geliştirilmiş, REST API mantığında çalışan bas
 1. Projeyi indirin veya klonlayın:
 
 ```
-   git clone <GITHUB-LINKINIZ>
+   git clone https://github.com/Diclesalhan/taskflow
    cd taskflow
 ```
 
